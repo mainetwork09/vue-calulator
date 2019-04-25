@@ -1,4 +1,4 @@
-# firebase-tutorial
+# vuejs calculator
 
 ## Project setup
 ```
